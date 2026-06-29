@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://colossoreformas.com.br/sitemap.xml
+Sitemap: https://claudereis.github.io/colosso-site-/sitemap.xml
